@@ -1,7 +1,7 @@
 # Classification-of-Cancerous-Mole-CanMoc-system-
-CanMoC (Cancerous Mole Classifier) is an image classification system that classifies 3 type of cancerous moles which are Melanoma, Nevus and Sebborheic Keratosis based on image of skin spot.
+CanMoC (Cancerous Mole Classifier) is an image classification system that classifies 3 type of cancerous moles which are Melanoma, Nevus and Sebborheic Keratosis based on image of skin spot using Convolutional Neural Network (CNN).
 
-Classification of Cancerous Mole using CNN - Saidah Nadiah
+Classification of Cancerous Mole using CNN
 
 1. Data
 (some error occured therefore I couldnt upload the dataset, however you can get the dataset from kaggle - 1. muhakabartay/melanoma-public 2. jaiahuja/skin-cancer-detection)
