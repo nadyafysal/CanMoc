@@ -3,7 +3,8 @@ CanMoC (Cancerous Mole Classifier) is an image classification system that classi
 
 Classification of Cancerous Mole using CNN - Saidah Nadiah
 
-1. Data [some error occured therefore I couldnt upload the dataset, however you can get the dataset from kaggle - 1)  muhakabartay/melanoma-public 2) jaiahuja/skin-cancer-detection ]
+1. Data (some error occured therefore I couldnt upload the dataset, however you can get the dataset from kaggle - 1)  muhakabartay/melanoma-public 2) jaiahuja/skin-cancer-detection)
+
 This folder contains a dataset of images that used for training the classification model which consists of three type of mole; Melanoma, Nevus and Seborrheic Keratosis. 
 The dataset is split to three set; train, valid, and test. 
 
